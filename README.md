@@ -1,2 +1,1 @@
-# hello-world
-Repository.
+Life in the Wild webpage
